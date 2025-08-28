@@ -3,7 +3,7 @@
 "surviverr": { x: 1.5, y: 1.5, z: 1.5, spin: false, mode: "rainbow", effect: "none" },
 "Jenark": { x: 1, y: 0.5, z: 1, spin: false, mode: "rainbow", effect: "none" },
 "SicoKaleb": { x: 3, y: 3, z: 3, spin: false, mode: "rainbow", effect: "none" },
-"BigBaldingg": { x: .6, y: 0.6, z: .6, spin: false, mode: "rainbow", effect: "none" },
+"BigBaldingg": { x: 0.6, y: 0.6, z: 0.6, spin: false, mode: "rainbow", effect: "none" },
 "EGirlPrecore": { x: 1, y: 0.5, z: 1, spin: false, mode: "rainbow", effect: "none" },
 "YouBungle": { x: 1, y: 0.5, z: 1, spin: false, mode: "rainbow", effect: "none" },
 "yenauw": { x: 2, y: 2, z: 2, spin: false, mode: "rainbow", effect: "none" },
