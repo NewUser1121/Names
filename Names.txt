@@ -4,7 +4,6 @@
 "Jenark": { x: 1, y: 0.5, z: 1, spin: false, rainbow: false, effect: "legend" },
 "SicoKaleb": { x: 3, y: 3, z: 3, spin: false, rainbow: true, effect: "legend" },
 "BigBaldingg": { x: .6, y: 0.6, z: .6, spin: false, rainbow: false, effect: "legend" },
-"_oyx": { x: 1, y: 0.5, z: 1, spin: false, rainbow: false, effect: "legend" },
 "EGirlPrecore": { x: 1, y: 0.5, z: 1, spin: false, rainbow: false, effect: "legend" },
 "YouBungle": { x: 1, y: 0.5, z: 1, spin: false, rainbow: false, effect: "legend" },
 "yenauw": { x: 2, y: 2, z: 2, spin: false, rainbow: false, effect: "legend" },
