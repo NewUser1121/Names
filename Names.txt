@@ -7,6 +7,4 @@
 "EGirlPrecore": { x: 1, y: 0.5, z: 1, spin: false, mode: "rainbow", effect: "none" },
 "YouBungle": { x: 1, y: 0.5, z: 1, spin: false, mode: "rainbow", effect: "none" },
 "yenauw": { x: 2, y: 2, z: 2, spin: false, mode: "rainbow", effect: "none" },
-"wayzel": { x: 4, y: 0.5, z: 4, spin: false, mode: "rainbow", effect: "none" },
-// "username": { x: 1, y: 1, z: 1, spin: false, mode: "none", effect: "none" },
-// "username": { x: 1, y: 1, z: 1, spin: false, mode: "none", effect: "none" },
+"wayzel": { x: 4, y: 0.5, z: 4, spin: false, mode: "rainbow", effect: "none" }
