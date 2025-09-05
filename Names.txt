@@ -7,4 +7,5 @@
 "EGirlPrecore": { x: 1, y: 0.5, z: 1, spin: false, mode: "rainbow", effect: "none" },
 "YouBungle": { x: 1, y: 0.5, z: 1, spin: false, mode: "ocean", effect: "none" },
 "yenauw": { x: 2, y: 2, z: 2, spin: false, mode: "none", effect: "none" },
-"wayzel": { x: 4, y: 0.5, z: 4, spin: false, mode: "fade", effect: "none" }
+"wayzel": { x: 4, y: 0.5, z: 4, spin: false, mode: "fade", effect: "none" },
+"dianasniffer": { x: 2.5, y: 1.5, z: 2.5, spin: true, mode: "galaxy", effect: "none" }
