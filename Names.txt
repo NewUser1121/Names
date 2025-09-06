@@ -10,5 +10,5 @@
 "wayzel": { x: 4, y: 0.5, z: 4, spin: false, mode: "fade", effect: "none" },
 "dianasniffer": { x: 2.5, y: 1.5, z: 2.5, spin: true, mode: "galaxy", effect: "none" },
 "AscentPvP": { x: 2.0, y: 2.0, z: 2.0, spin: false, mode: "galaxy", effect: "none" },
-"SwimClass": { x: 6.0, y: 6.0, z: 6.0, spin: true, mode: "fade", effect: "none" },
+"SwimClass": { x: 6.0, y: 6.0, z: 6.0, spin: false, mode: "fade", effect: "none" },
 "clairessky": { x: 0.75, y: 0.5, z: 0.75, spin: true, mode: "fade", effect: "none" }
