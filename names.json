@@ -3,8 +3,6 @@
     "x": 2.0,
     "y": 2.5,
     "z": 2.0,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "rainbow",
     "effect": "none"
   },
@@ -12,8 +10,6 @@
     "x": 1,
     "y": 0.5,
     "z": 1,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "none",
     "effect": "none"
   },
@@ -21,8 +17,6 @@
     "x": 1,
     "y": 3,
     "z": 1,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "ice",
     "effect": "none"
   },
@@ -30,8 +24,6 @@
     "x": 1.1,
     "y": 0.3,
     "z": 1.1,
-    "spin": true,
-    "spinspeed": 1.0,
     "mode": "ocean",
     "effect": "none"
   },
@@ -39,8 +31,6 @@
     "x": 3,
     "y": 3,
     "z": 3,
-    "spin": true,
-    "spinspeed": 1.0,
     "mode": "rainbow",
     "effect": "none"
   },
@@ -48,8 +38,6 @@
     "x": 0.6,
     "y": 0.6,
     "z": 0.6,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "rainbow",
     "effect": "none"
   },
@@ -57,8 +45,6 @@
     "x": 1,
     "y": 0.5,
     "z": 1,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "rainbow",
     "effect": "none"
   },
@@ -66,8 +52,6 @@
     "x": 1,
     "y": 0.5,
     "z": 1,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "ocean",
     "effect": "none"
   },
@@ -75,8 +59,6 @@
     "x": 2.0,
     "y": 2.0,
     "z": 2.0,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "none",
     "effect": "none"
   },
@@ -84,8 +66,6 @@
     "x": 4,
     "y": 0.5,
     "z": 4,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "fade",
     "effect": "none"
   },
@@ -93,8 +73,6 @@
     "x": 2.5,
     "y": 1.5,
     "z": 2.5,
-    "spin": true,
-    "spinspeed": 1.0,
     "mode": "galaxy",
     "effect": "none"
   },
@@ -102,8 +80,6 @@
     "x": 2.0,
     "y": 2.0,
     "z": 2.0,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "galaxy",
     "effect": "none"
   },
@@ -111,8 +87,6 @@
     "x": 6.0,
     "y": 6.0,
     "z": 6.0,
-    "spin": false,
-    "spinspeed": 1.0,
     "mode": "fade",
     "effect": "none"
   },
@@ -120,8 +94,6 @@
     "x": 0.75,
     "y": 0.5,
     "z": 0.75,
-    "spin": true,
-    "spinspeed": 1.0,
     "mode": "fade",
     "effect": "none"
   }
