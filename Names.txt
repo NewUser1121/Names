@@ -1,6 +1,6 @@
 "Technoblade": { x: 2.0, y: 2.5, z: 2.0, mode: "rainbow", effect: "none" },
 "KurumiFangirl": { x: 1, y: 0.5, z: 1, mode: "none", effect: "none" },
-"surviverr": { x: 1, y: 1, z: 1, mode: "fire", effect: "none" },
+"survive": { x: 1, y: 1, z: 1, mode: "fire", effect: "none" },
 "jenark": { x: 1.1, y: 0.5, z: 1.1, mode: "ocean", effect: "none" },
 "SicoKaleb": { x: 3, y: 3, z: 3, mode: "rainbow", effect: "none" },
 "BigBaldingg": { x: 0.6, y: 0.6, z: 0.6, mode: "rainbow", effect: "none" },
